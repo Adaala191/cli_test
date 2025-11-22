@@ -7,4 +7,5 @@
 This repository contains test files and folders created during my CLI training.
 This line was added from the feature/update-readme branch.
 Owner: Abdalla (main + feature merged)
+This line is for practicing a Pull Request.
 
